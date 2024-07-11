@@ -1,29 +1,39 @@
-# Grafos 2 - Online Judge
+# OnlineJudge
 
-**Número da Lista**: 2<br>
-**Conteúdo da Disciplina**: Grafos 2<br>
+**Número da Lista**: 8<br>
+**Conteúdo da Disciplina**: Grafos 1<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 21/1039789  | Guilherme Soares Rocha |
-| 21/1039519  | João Manoel Barreto Neto |
+| 21/1039519  |  João Manoel Barreto Neto |
+| 21/1039789  |  Guilherme Soares Rocha |
 
 ## Sobre 
-Este projeto consiste na resolução de exercícios do juíz online Leetcode sobre os conteúdos de Árvore Geradora Mínima, o Algoritmo de Kruskal, Algoritmo de Prim e Algoritmo de Dijkstra.
+Neste repositório se encontra questões resolvidas dos juízes online "Leetcode" e "HackerRank" sobre grafos, com o intuito de aplicar os conhecimentos obtidos na primeira etapa da disciplina de Projeto de Algoritmo. 
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Questões
+
+### [Nome da questao](link)
+**Dificuldade:** Difícil
+
+Submissões: <br>
+
+![image](imagem da submissão)
+
+### [Nome da questão](link)
+**Dificuldade:** Difícil
+
+Submissões: <br>
+![image](imagem)
+
+### [nome da questao](link)
+
+**Dificuldade:** Difícil
+
+Submissões:<br>
+![image](imagem)
+
 
 ## Instalação 
-**Linguagem**: Python<br>
-
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
-
-
-
+**Linguagem**: Python
