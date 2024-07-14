@@ -14,4 +14,4 @@ Given the two integers, n and threshold, and an array of queries, you must deter
 Return an array answer, where answer.length == queries.length and answer[i] is true if for the ith query, there is a path between ai and bi, or answer[i] is false if there is no path.
 
 Submissões: <br>
-![image](imagem da submissão)
+![image](https://github.com/user-attachments/assets/565b9039-d7ba-4eba-b45c-5b760a0e6c8b)
