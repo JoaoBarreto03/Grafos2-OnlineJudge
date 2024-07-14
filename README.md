@@ -14,14 +14,14 @@ Neste repositório se encontra questões resolvidas dos juízes online "Leetcode
 
 ## Questões
 
-### [Nome da questao](link)
-**Dificuldade:** Difícil
+### [150 - Network delay time](https://neetcode.io/problems/network-delay-time)
+**Dificuldade:** Média
 
 Submissões: <br>
 
 ![image](imagem da submissão)
 
-### [Nome da questão](link)
+### [1627 - Graph connectivity with threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/description/)
 **Dificuldade:** Difícil
 
 Submissões: <br>
