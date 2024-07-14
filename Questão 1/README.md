@@ -14,4 +14,4 @@ You are also given an integer k, representing the node that we will send a signa
 Return the minimum time it takes for all of the n nodes to receive the signal. If it is impossible for all the nodes to receive the signal, return -1 instead.
 
 Submissões: <br>
-![image](imagem da submissão)
+![image](https://github.com/user-attachments/assets/54191f6f-ff5a-4fb3-8d1b-75259f2c0d35)
