@@ -19,13 +19,16 @@ Neste repositório se encontra questões resolvidas dos juízes online "Leetcode
 
 Submissões: <br>
 
-![image](imagem da submissão)
+![image](https://github.com/user-attachments/assets/48860781-4ed3-4bbd-8ca6-2e70a28c5f2d)
+
 
 ### [1627 - Graph connectivity with threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/description/)
 **Dificuldade:** Difícil
 
 Submissões: <br>
-![image](imagem)
+![image](https://github.com/user-attachments/assets/2342b1b0-620c-4bc8-994b-781bfc871d03)
+
+
 
 ### [nome da questao](link)
 
