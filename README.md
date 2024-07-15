@@ -35,7 +35,8 @@ Submissões: <br>
 **Dificuldade:** Difícil
 
 Submissões:<br>
-![image](https://github.com/user-attachments/assets/597f389a-8606-4d1d-bf30-6b3ffaa19d1b)
+![image](https://github.com/user-attachments/assets/32c26a2c-7280-4b10-b5d9-545d00fae630)
+
 
 
 ## Instalação 
