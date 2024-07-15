@@ -30,12 +30,12 @@ Submissões: <br>
 
 
 
-### [nome da questao](link)
+### [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
 
 **Dificuldade:** Difícil
 
 Submissões:<br>
-![image](imagem)
+![image](https://github.com/user-attachments/assets/597f389a-8606-4d1d-bf30-6b3ffaa19d1b)
 
 
 ## Instalação 
