@@ -59,4 +59,5 @@ edges[i].length == 3
 All pairs (ai, bi) are distinct.
 
 Submissões: <br>
-![image](https://github.com/user-attachments/assets/8eda6493-797c-4378-bec0-5882c020fa31)
+![image](https://github.com/user-attachments/assets/ffe6216d-c61a-44eb-b412-2a961b37feaf)
+
