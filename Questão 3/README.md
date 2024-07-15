@@ -1,4 +1,4 @@
-### #Número - Nome da questão
+### 1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 Dificuldade: Difícil
 
 [Link para enunciado completo](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/description/)
